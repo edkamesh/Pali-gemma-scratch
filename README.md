@@ -1,1 +1,1 @@
-# Pali-gemma-scratch
+# pytorch-paligemma
